@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<TITLE>ERROR: The requested URL could not be retrieved</TITLE>
+<STYLE type="text/css"><!--BODY{background-color:#ffffff;font-family:verdana,sans-serif}PRE{font-family:sans-serif}--></STYLE>
+</HEAD><BODY>
+<H1>ERROR</H1>
+<H2>The requested URL could not be retrieved</H2>
+<HR noshade size="1px">
+<P>
+While trying to retrieve the URL:
+<A HREF="http://f1check.rediff.com/bn/download.cgi/AEON_2.jpg?">http://f1check.rediff.com/bn/download.cgi/AEON_2.jpg?</A>
+<P>
+The following error was encountered:
+<UL>
+<LI>
+<STRONG>
+Zero Sized Reply
+</STRONG>
+</UL>
+
+<P>
+Squid did not receive any data for this request.
+<P>Your cache administrator is <A HREF="mailto:webmaster">webmaster</A>. 
+
+<BR clear="all">
+<HR noshade size="1px">
+<ADDRESS>
+Generated Mon, 18 Oct 2010 16:25:02 GMT by mail.rediff.com (squid/2.5.STABLE14)
+</ADDRESS>
+</BODY></HTML>

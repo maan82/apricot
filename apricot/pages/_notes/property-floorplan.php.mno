@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_fp_RS" value="name:PICTURE_ID;datatype:real,name:PROPERTY_ID;datatype:int,name:IS_MAIN;datatype:string,name:PICTURE_OF;datatype:string,name:TITLE;datatype:string,name:COMMENTS;datatype:string,name:THUMB_PIC_PATH;datatype:string,name:THUMB_WIDTH;datatype:int,name:THUMB_HEIGHT;datatype:int,name:SLIDE_PIC_PATH;datatype:string,name:SLIDE_WIDTH;datatype:int,name:SLIDE_HEIGHT;datatype:int,name:FULL_PIC_PATH;datatype:string,name:FULL_WIDTH;datatype:int,name:FULL_HEIGHT;datatype:int,name:ORIGINAL_PIC_PATH;datatype:string,name:ORIGINAL_WIDTH;datatype:int,name:ORIGINAL_HEIGHT;datatype:int" />
+</info>

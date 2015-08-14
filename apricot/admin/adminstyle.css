@@ -1,0 +1,175 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+background-color:#fff;background-image:url(images/html.png);background-repeat:repeat-x;
+padding:0; font-family: Arial, Helvetica, sans-serif;
+margin:0px auto auto auto;
+color:#424849;
+font-size:12px;
+}
+img{border:none;}
+a{text-decoration:none;color:#1D67A2;}
+a:visited{text-decoration:none;color:#1D67A2;}
+.label{color:#7C7C7C;font-size:11px;font-weight:bold;font-family:Arial, Helvetica, sans-serif}
+.tablabel{color:#7C7C7C;font-size:11px;font-weight:bold;font-family:Arial, Helvetica, sans-serif}
+.tablabelrd{color:#F00;font-size:11px;font-weight:bold;font-family:Arial, Helvetica, sans-serif}
+
+.formcenter input[type="text"]{width:250px;}
+.formcenter textarea{width:250px;}
+.formcenter input.button {width:80px;height:25px;color:#ffffff;background:#414141;font:bold 11px Arial, Helvetica, sans-serif;text-decoration:none;padding:5px 10px;margin:0px 5px 5px 0;border:1px solid #000000;}
+.formcenter select{width:250px;}
+
+.form input[type="text"]{width:180px;}
+.form textarea{width:180px;}
+.form input.button {width:80px;height:25px;color:#ffffff;background:#414141;font:bold 11px Arial, Helvetica, sans-serif;text-decoration:none;padding:5px 10px;margin:0px 5px 5px 0;border:1px solid #000000;}
+.form select{width:180px;}
+input.buttonsmall {width:60px;height:20px;color:#ffffff;background:#414141;font:bold 11px Arial, Helvetica, sans-serif;text-decoration:none;margin:0px 5px 5px 0;border:1px solid #000000;}
+input.buttonsmall:hover {cursor:pointer;color:#cccccc;}
+
+input.button {width:80px;height:25px;color:#ffffff;background:#414141;font:bold 11px Arial, Helvetica, sans-serif;text-decoration:none;padding:0px 5px;margin:0px 5px 5px 0;border:1px solid #000000;}
+input.button:hover {cursor:pointer;color:#cccccc;}
+input.buttonlarge {width:110px;height:25px;color:#ffffff;background:#414141;font:bold 11px Arial, Helvetica, sans-serif;text-decoration:none;padding:5px 10px;margin:0px 5px 5px 0;border:1px solid #000000;}
+input.buttonlarge:hover {cursor:pointer;color:#cccccc;}
+
+input.buttonlage {width:110px;height:25px;color:#ffffff;background:#414141;font:bold 11px Arial, Helvetica, sans-serif;text-decoration:none;padding:5px 10px;margin:0px 5px 5px 0;border:1px solid #000000;}
+input.buttonlage:hover {cursor:pointer;color:#cccccc;}
+
+input.buttonextralage {width:160px;height:25px;color:#ffffff;background:#414141;font:bold 11px Arial, Helvetica, sans-serif;text-decoration:none;padding:5px 10px;margin:0px 5px 5px 0;border:1px solid #000000;}
+input.buttonextralage:hover {cursor:pointer;color:#cccccc;}
+
+.phead{color:#CF6613;font-size:20px;font-weight:bold;border-bottom:2px solid #5D5D5D}
+.bhead{color:#FFF;font-size:16px;font-weight:bold;float:left}
+.lbb{padding:10px;background-color:#ECF0F3;}
+
+.lbbhead{color:#CF6613;font-size:16px;font-weight:bold;border-bottom:2px solid #5D5D5D}
+.orangehead{color:#CF6613;font-size:16px;font-weight:bold;border-bottom:2px solid #5D5D5D;padding:10px 0px;margin-bottom:10px}
+.orangetext{color:#CF6613;font-weight:bold;}
+legend{color:#CF6613;font-size:16px;font-weight:bold;border-bottom:none;}
+.bright{color:#FFF;font-weight:bold;float:right;text-decoration:none}
+#offer_box_small{float:left;width:159px;margin-top:4px ;padding:2px;}
+.offer_box_small_img{text-align:center;}
+.offer_info{color:#6E8CB3;font-weight:bold;text-align:center}
+.offer_info span{color:#6E8CB3;font-weight:bold;}
+.mainblockhead{height:20px;color:#FFF;background:#385870;padding:5px}
+.maincontainer{background-color:#FFF;width:710px;padding:0px 28px;padding-top:1px;}
+.leftbar{width:202px;float:left;}
+.maincontent{width:490px;float:left;padding:8px;}
+.welcomepic{width:200px;float:left;padding-top:30px}
+.welcometexthead{width:286px;float:left;padding:2px}
+.footer{height:100px;clear:both;margin-top:1px;border-top:3px solid #7B8187}
+.lbfooter{width:186px;float:left;padding:8px;height:100px;text-align:center;}
+.rbfooter{width:225px;float:left;padding:8px;height:100px;text-align:center;}
+.adminmenu {width:100%;height:39px;background:url(images/menubg.jpg) left top repeat-x;	}
+.adminmenu .adminmenucover{padding:13px 0px 10px 0px;}
+.adminmenu ul {	margin:0px;	padding:0px;}
+.adminmenu li  {	display:inline;	background:url(../images/devider.jpg) right top no-repeat;	padding:10px 15px 10px 18px;}
+.adminmenu li.active {	background:#344f5f;}
+.adminmenu li.active a{	color:#ffffff;}
+.adminmenu li a{	font:bold 12px Arial, Helvetica, sans-serif;	color:#3D5665;	text-decoration:none;}
+.adminmenu li a:hover {	color:#898a8a;	text-decoration:none;}
+.table_grid{width:100%;clear:both;padding:10px 0 10px 0;margin:auto;}
+table{width:100%;}
+th{background:#fff url(images/tr_back.gif) repeat-x center;color:#D8325D; height:21px; padding:10px;}
+td{text-align:left;padding:5px;}
+.greentableheading {font:14px Myriad Pro, Arial, Helvetica, sans-serif;	color:#4E8425;	font-weight:bold;}
+.pagination{float:right;width:170px}
+.paginationbt{float:right;width:170px;clear:both}
+/*-------------------Actions list----------------*/
+.actions_list{
+padding: 0px 10px;
+}
+.actions_list ul{
+text-decoration:none;
+list-style:none;
+margin:0px;
+padding:0px;
+}
+.actions_list ul li{
+padding:10px 5px 10px 40px;
+
+color:#333333;
+}
+.actions_list ul li a{
+	text-decoration:none;
+	padding-bottom:3px;
+	display:block; width:115px;
+	border-bottom:1px dashed #0464a1;
+}
+.actions_list ul li a:hover{
+	border-bottom:1px dashed #d8325d;
+}
+.actions_list ul li a:hover span{
+	color:#d8325d;
+}
+
+.actions_list ul li a span{
+	
+text-decoration:none;
+color:#0464a1;
+font-weight:bold;
+font-size: 14px;
+}
+.information{background:url(images/info.png) no-repeat left;}
+/*-------------------details list small----------------*/
+.details_list_small{
+	width:140px; 
+	float:left;
+padding:0px;
+}
+.details_list_small ul{
+text-decoration:none;
+list-style:none;
+margin:0px;
+padding:0px;
+}
+.details_list_small ul li{
+padding:5px 5px 5px 20px ;
+background:url(images/bullet.gif) no-repeat left;
+color:#333333;
+}
+.details_list_small ul li span{
+color:#0464a1;
+}
+/*-------------------details list small----------------*/
+.more{
+text-align:right;
+padding:3px;
+}
+.more a{
+color:#d8325d;
+}
+.more a:hover{
+text-decoration:none;
+}
+.steps{font-size:13;font-weight:bold;padding-bottom:20px}
+.stepactive{color:#6E8CB3;text-decoration:blink}
+.stepdone{color:#090;}
+.steppending{color:#999;}
+.actionsuccess{color:#0C0;font-size:13;font-weight:bold;}
+.actionfail{color:#F00;font-size:13;font-weight:bold;}
+div#one {
+    top: 0;
+    left: 1045px;
+    width: 210px;
+    height: 436px;
+    border: 1px solid rgb(200, 200, 200);
+    position: absolute;
+    background: #FFF;
+	margin-top:25px;
+	text-align:center;
+}
+div#two {
+    top: 0;
+    left: 0;
+    width: 210px;
+    height: 436px;
+    border: 1px solid rgb(200, 200, 200);
+    position: absolute;
+    background: #FFF;
+	margin-top:25px;
+	text-align:center;
+
+}
+.pntr{cursor:pointer}
+.required{color: #CC3333;}
